@@ -14,8 +14,11 @@
 ### Aegis Markets - 14.01.2026 - 29.01.2026
 [Report](https://github.com/CODESPECT-security/audit-reports/blob/main/053_CODESPECT_AEGIS_DFF.pdf)
 
-### XXXXX - 17.05.2026 - 31.05.2026 
+### Btc4Stable - 17.05.2026 - 31.05.2026 
 `Report Soon`
+
+### Hyperwave Sub-Account
+[Report](https://github.com/CODESPECT-security/audit-reports/blob/main/068_Hyperwave_Sub-Account_Strategy.pdf)
 
 ## Rust Audits
 
