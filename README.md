@@ -20,6 +20,9 @@
 ### Hyperwave Sub-Account
 [Report](https://github.com/CODESPECT-security/audit-reports/blob/main/068_Hyperwave_Sub-Account_Strategy.pdf)
 
+### Btc4Stable V2
+[Report](https://github.com/0xSynthrax/private-audits/blob/main/report-pdfs/Btc4StableV2_Report.pdf)
+
 ## Rust Audits
 
 ### Votex-LGT
